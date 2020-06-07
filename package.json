@@ -1,0 +1,24 @@
+{
+  "name": "googlestartpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^9.8.0",
+    "cssnano": "^4.1.10",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^8.0.0",
+    "postcss-discard-comments": "^4.0.2",
+    "postcss-focus": "^4.0.0",
+    "postcss-short-size": "^4.0.0",
+    "precss": "^4.0.0"
+  },
+  "dependencies": {
+    "postcss-scss": "^2.1.1"
+  }
+}
